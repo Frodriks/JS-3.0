@@ -1,0 +1,8 @@
+.product {
+    cursor: pointer;
+}
+
+.product .info {
+    display: none;
+}
+
